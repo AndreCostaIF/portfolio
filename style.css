@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: black;
+    background-color: rgb(32, 33, 36);
 }
 
 a{
@@ -62,8 +62,7 @@ a{
 
 .contact-me{
     
-    border: 1px solid black;
-    background-image: linear-gradient(to right, #000000, #202020);
+   background-color: black;
     border-radius: 24px;
     color: white;
     transition: transform 0.2s ease-in-out;
@@ -75,8 +74,8 @@ a{
 
 .contact-me:hover{
   transform: scale(1.1);
-  border: 1px solid white;
-  color: white;
+  background-color: white;
+  color: black;
 
 }
 
