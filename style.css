@@ -16,6 +16,11 @@ a{
     transition: transform 0.2s ease-in-out;
 }
 
+.img-recomendacao{
+  width: 100px;
+  border-radius: 50% ;
+}
+
 .img-eu{
     max-width: 200px;
     border-radius: 50% ;
@@ -58,6 +63,13 @@ a{
     font-size: 20px;
     font-weight: 200;
     color: #B3B3B3;
+}
+
+.texto3{
+  font-family: 'Poppins';
+  font-size: 17px;
+  font-weight: 200;
+  color: #B3B3B3;
 }
 
 .contact-me{

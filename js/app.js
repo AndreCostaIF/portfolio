@@ -17,4 +17,5 @@
     $(function(){
          
         $(".includedContent").load("contact.html"); 
+        $(".recomendacao").load("recomendacao.html"); 
       });
